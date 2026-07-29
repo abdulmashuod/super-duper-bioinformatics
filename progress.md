@@ -6,7 +6,7 @@ Track your daily progress through the 10-day bioinformatics fundamentals course.
 
 | Day | Topic | Article Read | Notes Taken | Concepts Listed | Resources Added | Status |
 |-----|-------|:-------------:|:-----------:|:---------------:|:---------------:|:------:|
-| 1 | Introduction to Bioinformatics | ☐ | ☐ | ☐ | ☐ | ⏳ |
+| 1 | Introduction to Bioinformatics | ✓| ✓ | ✓ | ✓ | ✓ |
 | 2 | DNA/RNA Sequences & Structure | ☐ | ☐ | ☐ | ☐ | ⏳ |
 | 3 | Sequence Alignment Basics | ☐ | ☐ | ☐ | ☐ | ⏳ |
 | 4 | Multiple Sequence Alignment | ☐ | ☐ | ☐ | ☐ | ⏳ |
