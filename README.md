@@ -54,7 +54,7 @@ bioinformatics-learning-2026/
 ```bash
 # Clone or download this repository
 # Navigate to the project
-cd bioinformatics-learning-2026
+cd super-duper-bioinformatics
 
 # For each day:
 cd Day-01-Introduction
@@ -82,9 +82,11 @@ git push origin main
 ##  Tips for Success
 
 - Read actively - don't just passively consume  
-- Summarize in your own words  
+- Summarize in your own words 
+- Use your own analysis skill so intelligence should not be feels like utility 
 - Create visual notes/diagrams if helpful  
 - Connect concepts to real-world applications  
+- Someone else's SUCCESS is your success too
 - Share your learning with someone and teach them or get taught.
 
 ---
