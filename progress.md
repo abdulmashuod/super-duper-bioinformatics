@@ -98,23 +98,22 @@ Track your daily progress through the 10-day bioinformatics fundamentals course.
 ## Summary Statistics
 
 - **Total Days**: 10
-- **Days Completed**: 0/10
-- **Overall Progress**: 0%
+- **Days Completed**: 1/10
+- **Overall Progress**: 5%
 - **Average Time per Day**: [Will calculate after completion]
 - **Most Challenging Day**: TBD
 - **Key Takeaway**: TBD
 
 ---
 
-## LinkedIn Posts Log
-
-Track your daily LinkedIn updates for accountability:
-
-| Day | Post Date | Post Link | Engagement |
-|-----|-----------|-----------|-----------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| ... | | | |
-| 10 | | | |
+**Key Concepts Covered:**
+- Day-01 Milestone
+- [ ] What bioinformatics is (definition & scope)
+- [ ] Interdisciplinary nature (4 pillars)
+- [ ] Central Dogma: DNA → RNA → Protein
+- [ ] Big data problem in biology
+- [ ] Major databases (NCBI, GenBank, UniProt, Ensembl)
+- [ ] Career pathways (4 main roles)
+- [ ] Historical context (Dayhoff, Altschul)
+- [ ] Real-world applications (cancer drugs, COVID-19)
 
