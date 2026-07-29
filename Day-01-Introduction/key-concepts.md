@@ -6,7 +6,7 @@
 
 ## 1. What is Bioinformatics?
 
-**Definition**: [Bioinformatics is an interdisciplinary field using dry lab, that is, methods and software tools for understanding biological data. Bioinformatics includes experts from computer science, statistics, even mathematics, and of course biologists for a better understanding of biological data.]
+**Definition**: Bioinformatics is an interdisciplinary field using dry lab, that is, methods and software tools for understanding biological data. Bioinformatics includes experts from computer science, statistics, even mathematics, and of course biologists for a better understanding of biological data.
 
 **Why Important**: 
 - Bioinformatics can be applied to following fields nowadays.
@@ -21,16 +21,16 @@
 
 **Example**: 
 - Find Right Cancer treatment
- [When a tumor is sequenced, bioinformatician by using software tools sifts through millions of data points to identify the specific mutation driving that cancer. for example sequencing can reveal mutation(s) in a growth signalling gene that make tumor responsive to trageted drugs. 
+ When a tumor is sequenced, bioinformatician by using software tools sifts through millions of data points to identify the specific mutation driving that cancer. for example sequencing can reveal mutation(s) in a growth signalling gene that make tumor responsive to trageted drugs. 
 In melanoma, a specific mutation called BRAF V600E flags patients who benefit from a different kind of therapy entirely.
-there are many more like Speeding up Drug Discovery ,Protein Folding Prediction,Breeding better crops, forensics and outbreak Investigation etc.]
+there are many more like Speeding up Drug Discovery ,Protein Folding Prediction,Breeding better crops, forensics and outbreak Investigation etc.
 
 ---
 
 ## 2. Interdisciplinary Nature
 
 **Key Components**:
-- Computer Science: [Using Computer knowlegde we learn how to deal with biological data computationally]
+- Computer Science: Using Computer knowlegde we learn how to deal with biological data computationally
 - Biology: Core knowledge of biology clears the road to understand how does cellular/organismic level things work, and helps to know what does data means in life-science terms.
 - Statistics: Tells us how confident we are in our data and our findings.Answers the question of significane. make in depth analysis possible
 - Mathematics: It eventually helps us understand how models actually work.what they need and how they are efficient
@@ -145,15 +145,235 @@ Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the
 
 ---
 
-## 10. Career Pathways
+## 10. Career Pathways in Bioinformatics
 
-**Bioinformatician**: [Skills required, roles]
+### **Bioinformatician**
+**Skills Required:**
+- Programming: Python, R, Perl, Bash scripting
+- Databases: SQL, NoSQL (MongoDB)
+- Sequence analysis: BLAST, alignment algorithms
+- Statistics & math (hypothesis testing, probability)
+- Biology fundamentals (genetics, molecular biology)
 
-**Computational Biologist**: [Skills required, roles]
+**Typical Roles:**
+- Sequence analyst (comparing DNA/proteins)
+- Database curator (maintaining sequence repositories)
+- Tool developer (building analysis software)
+- NGS data analyst (processing sequencing experiments)
 
-**Systems Biologist**: [Skills required, roles]
+**Example Job Title:** Senior Bioinformatician at NCBI, Illumina, 23andMe
 
-**Bioinformatics Engineer**: [Skills required, roles]
+**Salary Range:** $70K-$130K USD (varies by experience & location)
+
+**Where They Work:** 
+- Research institutions (NIH, universities)
+- Tech companies (Google Health, Microsoft Research)
+- Biotech startups
+- Diagnostic companies
+
+---
+
+### **Computational Biologist**
+**Skills Required:**
+- Advanced math & statistics (differential equations, machine learning)
+- Programming: Python, C++, Julia
+- Systems thinking (modeling complex biological processes)
+- Biology: Cell biology, genetics, biochemistry
+- Data visualization & interpretation
+
+**Typical Roles:**
+- Build mathematical models of biological systems
+- Analyze gene regulatory networks
+- Protein interaction prediction
+- Disease pathway modeling
+- Drug target discovery
+
+**Example Job Title:** Computational Biologist at Genentech, MIT Media Lab, Stanford
+
+**Salary Range:** $80K-$150K USD (research-focused, often PhD required)
+
+**Where They Work:**
+- Academic research labs
+- Pharmaceutical R&D
+- Systems biology institutes
+- AI/ML companies (DeepMind, OpenAI biology)
+
+---
+
+### **Systems Biologist**
+**Skills Required:**
+- Advanced biology (biochemistry, cell biology, physiology)
+- Modeling: ODE (ordinary differential equations), agent-based modeling
+- Network analysis & graph theory
+- Programming: MATLAB, Python, R
+- Systems thinking (understand feedback loops, robustness)
+- Data integration (omics: genomics, proteomics, metabolomics)
+
+**Typical Roles:**
+- Build predictive models of cellular behavior
+- Analyze metabolic networks
+- Study how genes interact in networks
+- Design synthetic biology experiments
+- Personalized medicine (patient-level predictions)
+
+**Example Job Title:** Systems Biologist at Pfizer, Caltech, EMBL
+
+**Salary Range:** $85K-$160K USD (PhD typical requirement)
+
+**Where They Work:**
+- Pharmaceutical companies
+- Research universities
+- Systems biology centers
+- Synthetic biology companies
+
+---
+
+### **Bioinformatics Engineer / Software Engineer (Bioinformatics)**
+**Skills Required:**
+- Strong software engineering: Python, Java, C++, Go
+- Software design & architecture
+- Cloud computing: AWS, GCP, Azure
+- DevOps & CI/CD pipelines
+- Database design (SQL, NoSQL)
+- Testing & debugging (unit tests, integration tests)
+- Git, Docker, Kubernetes
+- *Basic* biology understanding (enough to understand requirements)
+
+**Typical Roles:**
+- Build & maintain bioinformatics software tools
+- Develop web platforms for analysis
+- Optimize algorithms for speed/scale
+- Design data pipelines
+- Lead technical infrastructure
+- Open-source bioinformatics tool development (Nextflow, Galaxy)
+
+**Example Job Title:** Senior Software Engineer (Bioinformatics) at Ginkgo Bioworks, Recursion, 10x Genomics
+
+**Salary Range:** $100K-$180K USD (highest-paid bioinformatics role!)
+
+**Where They Work:**
+- Biotech startups (highest growth)
+- Tech companies (Google, Meta)
+- Sequencing companies (Illumina, PacBio)
+- Cloud platforms (AWS Health, Azure Genomics)
+
+---
+
+## **Quick Comparison Table**
+
+| Career Path | Biology Level | Programming Level | Math Level | Best For |
+|------------|---------------|-------------------|-----------|----------|
+| Bioinformatician | ⭐⭐⭐⭐ High | ⭐⭐⭐ Intermediate | ⭐⭐⭐ Intermediate | Direct data analysis |
+| Computational Biologist | ⭐⭐⭐⭐⭐ Very High | ⭐⭐⭐ Intermediate | ⭐⭐⭐⭐⭐ Advanced | Understanding systems |
+| Systems Biologist | ⭐⭐⭐⭐⭐ Very High | ⭐⭐⭐ Intermediate | ⭐⭐⭐⭐ Advanced | Modeling & networks |
+| Bioinformatics Engineer | ⭐⭐ Low | ⭐⭐⭐⭐⭐ Expert | ⭐⭐⭐ Intermediate | Building tools & scale |
+
+---
+
+## **Career Progression Paths**
+
+### **Path 1: Researcher → Bioinformatician → Computational Biologist**
+- Start: Analyze data for research questions
+- Grow: Build custom analysis tools
+- Mature: Design experiments based on computational predictions
+
+### **Path 2: Software Engineer → Bioinformatics Engineer → Research Engineer**
+- Start: Build bioinformatics tools
+- Grow: Lead platform/infrastructure development
+- Mature: Drive innovation in biotech tools
+
+### **Path 3: Wet Lab Biologist → Bioinformatician → Systems Biologist**
+- Start: Do molecular work, learn to code
+- Grow: Combine wet lab + computational work
+- Mature: Design experiments based on computational models
+
+### **Path 4: Data Scientist → Bioinformatician → ML Researcher**
+- Start: Apply ML to biological data
+- Grow: Specialize in genomics/proteomics
+- Mature: Design novel ML approaches for biology
+
+---
+
+## **Skills You'll Need for Course**
+
+**Minimum to Survive:**
+-  Basic Python (or willingness to learn)
+-  Curiosity about biology
+-  Comfort with command line (Bash)
+
+**Nice to Have:**
+- R programming (used heavily in bioinformatics)
+- Linux/Unix systems knowledge
+- Statistics basics
+- Python 
+- Script writing 
+
+---
+
+## **Which Path Matches YOU?**
+
+### **Choose Bioinformatician if you:**
+-  Love working directly with sequences/data
+-  Want to analyze experiments
+-  Enjoy scripting more than heavy math
+-  Career goal: Data analyst → Senior analyst
+
+### **Choose Computational Biologist if you:**
+-  Love understanding *how* systems work
+-  Enjoy deep biology + advanced math
+-  Want to make predictions
+-  Career goal: Research leadership, discovery
+
+### **Choose Systems Biologist if you:**
+-  Think in networks & feedback loops
+-  Love integration (combining many datasets)
+-  Want to model whole systems
+-  Career goal: Design synthetic biology experiments
+
+### **Choose Bioinformatics Engineer if you:**
+-  Love coding & software architecture
+-  Want to build tools others use
+-  Prefer problem-solving over biology
+-  Career goal: Lead technical teams, high salary
+
+---
+
+## **First Job Market (2026)**
+
+**Hottest Roles:**
+1. **Bioinformatics Engineer** - Highest demand, highest pay
+2. **Bioinformatician (NGS)** - Genomics boom driving demand
+3. **Computational Biologist (ML)** - AI/ML explosion in biotech
+
+**Companies Hiring:**
+- Biotech startups: Ginkgo Bioworks, Synthego, Recursion
+- Big Pharma: Pfizer, Moderna, GSK
+- Tech companies: Google Health, Meta, Microsoft Research
+- Sequencing: Illumina, 10x Genomics, PacBio
+- Diagnostics: 23andMe, MyHeritage
+
+**Remote Work:**  Very common in bioinformatics (especially engineering roles)
+
+---
+
+## **What This Course Prepares You For**
+
+After completing this course, you'll have skills for:
+
+**Entry-Level Bioinformatician**
+- Analyze sequences, run BLAST, process genomic data
+- Work with public databases
+- Understand NGS pipelines
+
+ **Not Quite Ready For:**
+- Systems biologist (needs advanced modeling)
+- Computational biologist PhD (needs deeper math)
+- Senior engineer (needs professional software skills)
+
+ **Perfect For:**
+- Getting hired for junior bioinformatics roles
+- Deciding which path interests you most
+- Foundation before specialization
 
 ---
 
