@@ -95,7 +95,6 @@ Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the
 - DNA to RNA (Transcription): Algorithms scan genomes to locate genes and regulatory regions, predicting how DNA is transcribed into RNA and how transcripts are processed (e.g., splicing).
 - RNA to Protein (Translation): Tools predict protein sequences from mRNA, analyze codon usage, and model protein structure and function to understand how genetic code becomes biological machinery.
 - Integration & Exceptions: By integrating massive sequencing data, bioinformatics validates these models and reveals complexities like reverse transcription and the regulatory roles of non-coding RNAs
-- ![DNA-OVERVIEW](./DNA.png)
 ---
 
 ## 7. Big Data in Biology
@@ -146,7 +145,7 @@ Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the
 -The specific arrangement order of these nucleotides determines biological traits and codes for making essential body proteins
 - Double helix structure
 - Base pairing rules
--
+- ![DNA-OVERVIEW](./DNA.png)
 
 **Protein Basics**:
 - 20 amino acids
