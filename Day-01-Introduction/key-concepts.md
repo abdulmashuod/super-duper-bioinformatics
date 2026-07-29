@@ -1,5 +1,6 @@
 # Day 1: Key Concepts - Introduction to Bioinformatics
-
+- Well come to all my inspiring mentors. Go ahead, give it a star.
+- nothing relative or toxic just wish to see you win in all aspects of life.
 
 
 ---
@@ -406,17 +407,18 @@ Create a simple visual relationship between concepts:
 ##  Concept Mastery Checklist
 
 Rate your understanding (1=Not at all, 5=Completely):
+- be generous to yourself as well.
+- [ ] What bioinformatics is:
+- [ ] Its interdisciplinary nature:
+- [ ] Key applications:
+- [ ] Major tools/databases:
+- [ ] Central dogma:
+- [ ] Historical context:
+- [ ] Career opportunities:
+- [ ] Data scales involved:
+- if you are satisfied,my happiness doubles.
 
-- [ ] What bioinformatics is: ___/5
-- [ ] Its interdisciplinary nature: ___/5
-- [ ] Key applications: ___/5
-- [ ] Major tools/databases: ___/5
-- [ ] Central dogma: ___/5
-- [ ] Historical context: ___/5
-- [ ] Career opportunities: ___/5
-- [ ] Data scales involved: ___/5
+**Areas to Review**: Any suggestions will be appreciated and helpful.
 
-**Areas to Review**: [Which concepts scored lowest?]
-
-**Ready to Move to Day 2**: Yes / No / Needs Review
+**Ready to Move to Day 2**: Review once more and congratulations for Day-01 my friend.
 
