@@ -140,11 +140,11 @@ Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the
 
 **DNA Basics**:
 - 4 nucleotides: A, T, G, C
+- Base pairing rules
 - A binds wth T via double Hydrogen bond
 - G binds with C via tripple hydrogen bond
--The specific arrangement order of these nucleotides determines biological traits and codes for making essential body proteins
-- Double helix structure
-- Base pairing rules
+- The specific arrangement order of these nucleotides determines biological traits and codes for making essential body proteins
+**Double helix structure**
 - ![DNA-OVERVIEW](./DNA.png)
 
 **Protein Basics**:
