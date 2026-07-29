@@ -1,84 +1,31 @@
-# Day 1: Introduction to Bioinformatics - Notes
+# Day 1 Study Notes
 
-**Date**: [Your Date]  
-**Article Title**: What is Bioinformatics?  
-**Source**: [Add source link]  
-**Reading Time**: [Minutes spent]
+## Definition (In My Words)
+Bioinformatics is using computer programs to analyze DNA, RNA, and protein sequences to answer biological questions.
 
----
+## Why It Matters
+1. **Scale:** Modern sequencing generates billions of data points
+2. **Pattern Finding:** Computers detect similarities humans would miss
+3. **Drug Discovery:** Enables personalized medicine, disease research
+4. **Evolution:** Understand how species are related
 
-## 📚 Article Summary
+## Real-World Example That Made Sense
+COVID-19: Scientists used bioinformatics to:
+- Sequence the virus genome in weeks
+- Compare it to known coronaviruses
+- Predict how it would mutate
+- Develop vaccines
 
-[Write a brief 2-3 paragraph summary of the article in your own words]
+## Tools I Learned About
+- **NCBI GenBank:** Public DNA sequence database (~500M sequences)
+- **NCBI Gene:** Find genes by name/function
+- **UniProt:** Protein sequences and annotations
 
----
+## Questions Still Pondering
+- How exactly do you "read" a DNA sequence file?
+- What format are these files in?
+- How do bioinformaticians actually write code to analyze this?
 
-## 🔑 Key Takeaways
-
-### Takeaway 1
-[Explain a major concept or finding from the article]
-
-### Takeaway 2
-[Another important insight]
-
-### Takeaway 3
-[A third key learning]
-
-### Takeaway 4
-[Additional important point]
-
-### Takeaway 5
-[Final key concept]
-
----
-
-## 💡 Personal Insights
-
-[What surprised you? What confused you? How does this relate to your goals?]
-
----
-
-## 🔗 Connections to Other Topics
-
-[How does this relate to things you already know or other bioinformatics topics?]
-
----
-
-## ❓ Questions for Further Exploration
-
-1. [Question that came up while reading]
-2. [Another question to investigate]
-3. [Something you want to understand better]
-
----
-
-## 🎯 How This Applies to Real-World Bioinformatics
-
-[Describe practical applications of today's concepts]
-
----
-
-## 📖 Quotes/Highlights
-
-> "[Quote from the article that resonated with you]" - [Author]
-
----
-
-## ✅ Reflection
-
-- **Difficulty Level**: Easy / Medium / Hard
-- **Most Useful Concept**: [What was most valuable?]
-- **Main Challenge**: [What was hardest to understand?]
-- **Time Spent**: [Hours/Minutes]
-- **Ready for Day 2**: Yes / Partially / Need to Review
-
----
-
-## 🔄 Follow-up Actions
-
-- [ ] Review key concepts tomorrow
-- [ ] Search for videos on [Topic]
-- [ ] Try a relevant tool/software
-- [ ] Discuss with someone
-- [ ] Other: [Your follow-up]
-
+## Confidence Level
+- Understanding of bioinformatics scope: 8/10
+- Ready to dive into sequences: 6/10 (eager for Day 2!)
