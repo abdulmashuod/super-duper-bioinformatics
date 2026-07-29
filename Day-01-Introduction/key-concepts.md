@@ -37,7 +37,7 @@ there are many more like Speeding up Drug Discovery ,Protein Folding Prediction,
 - Statistics: Tells us how confident we are in our data and our findings.Answers the question of significane. make in depth analysis possible
 - Mathematics: It eventually helps us understand how models actually work.what they need and how they are efficient
 
-**Synergy**: Bioinformatics is essentially big data analysis for biological data sets. It requires computational and statistical analyses in order to extract meaning from biological data. ![Image](Bioinformatics-PNG.png)
+**Synergy**: Bioinformatics is essentially big data analysis for biological data sets. It requires computational and statistical analyses in order to extract meaning from biological data. ![Bioinformatics Overview](Bioinformatics-PNG.png)
 
 ---
 
@@ -410,17 +410,18 @@ Create a simple visual relationship between concepts:
 
 Rate your understanding (1=Not at all, 5=Completely):
 - be generous to yourself as well.
-- [ ] What bioinformatics is:
-- [ ] Its interdisciplinary nature:
-- [ ] Key applications:
-- [ ] Major tools/databases:
-- [ ] Central dogma:
-- [ ] Historical context:
-- [ ] Career opportunities:
-- [ ] Data scales involved:
-- if you are satisfied,my happiness doubles.
+- [ ] What bioinformatics is?
+- [ ] Its interdisciplinary nature?
+- [ ] Key applications?
+- [ ] Major tools/databases?
+- [ ] Central dogma?
+- [ ] Historical context?
+- [ ] Career opportunities?
+- [ ] Data scales involved?
+- if you are learned this far ,you're going toward new horizon.
 
 **Areas to Review**: Any suggestions will be appreciated and helpful.
-
+## **Conclusion**
+Bioinformatics is young. Margaret Dayhoff invented it in the 1960s. Forty years later, we sequenced the human genome. Thirty years after that, we have AI predicting protein structures. You're entering a field that literally rewrites itself every few years.
 **Ready to Move to Day 2**: Review once more and congratulations for Day-01 my friend.
 
