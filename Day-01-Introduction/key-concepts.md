@@ -35,7 +35,7 @@ there are many more like Speeding up Drug Discovery ,Protein Folding Prediction,
 - Statistics: Tells us how confident we are in our data and our findings.Answers the question of significane. make in depth analysis possible
 - Mathematics: It eventually helps us understand how models actually work.what they need and how they are efficient
 
-**Synergy**: Bioinformatics is essentially big data analysis for biological data sets. It requires computational and statistical analyses in order to extract meaning from biological data. ./Bioinformatics-png
+**Synergy**: Bioinformatics is essentially big data analysis for biological data sets. It requires computational and statistical analyses in order to extract meaning from biological data. (./Bioinformatics-png)
 
 ---
 
@@ -48,12 +48,12 @@ there are many more like Speeding up Drug Discovery ,Protein Folding Prediction,
 - [ ] Metabolomics
 - [ ] Structural Biology
 - [ ] Evolutionary Biology
-- Other: [Add any others mentioned]
+- Others
 
 ---
 
 ## 4. Historical Development 
-[Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the early 1970s and defined it as ‘the study of informatic processes in biotic systems’¹. However, before the term was coined the stage was set for bioinformatics to emerge as a new field of study in the 1960s when computational methods were applied to protein sequence analysis by Margaret Dayhoff. In fact, Dayhoff has been referred to as ‘the mother and father of bioinformatics.]
+Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the early 1970s and defined it as ‘the study of informatic processes in biotic systems’¹. However, before the term was coined the stage was set for bioinformatics to emerge as a new field of study in the 1960s when computational methods were applied to protein sequence analysis by Margaret Dayhoff. In fact, Dayhoff has been referred to as ‘the mother and father of bioinformatics.
 
 ---
 
@@ -83,7 +83,8 @@ there are many more like Speeding up Drug Discovery ,Protein Folding Prediction,
 
 **DNA → RNA → Protein**
 
-**Bioinformatics Role**: [How bioinformatics helps us understand each step]
+**Bioinformatics Role**: 
+- [ ] How bioinformatics helps us understand each step
 - Bioinformatics deciphers the central dogma by computationally analyzing each stage of genetic information flow:
 
 - DNA to RNA (Transcription): Algorithms scan genomes to locate genes and regulatory regions, predicting how DNA is transcribed into RNA and how transcripts are processed (e.g., splicing).
