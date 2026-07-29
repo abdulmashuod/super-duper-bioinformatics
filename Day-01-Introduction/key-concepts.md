@@ -37,7 +37,7 @@ there are many more like Speeding up Drug Discovery ,Protein Folding Prediction,
 - Statistics: Tells us how confident we are in our data and our findings.Answers the question of significane. make in depth analysis possible
 - Mathematics: It eventually helps us understand how models actually work.what they need and how they are efficient
 
-**Synergy**: Bioinformatics is essentially big data analysis for biological data sets. It requires computational and statistical analyses in order to extract meaning from biological data. ![Bioinformatics Overview](Bioinformatics-PNG.png)
+**Synergy**: Bioinformatics is essentially big data analysis for biological data sets. It requires computational and statistical analyses in order to extract meaning from biological data. ![Bioinformatics Overview](./Bioinformatics-Position.png)
 
 ---
 
