@@ -157,7 +157,7 @@ Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the
 ---
 
 ## 10. Career Pathways in Bioinformatics
-### **Caution:Salaries are added after searching remote job plateform. So DayDreaming is a side effect we all have to face. **
+### Caution:Salaries are added after searching remote job plateform. So DayDreaming is a side effect we all have to face.
 
 ### **Bioinformatician**
 **Skills Required:**
