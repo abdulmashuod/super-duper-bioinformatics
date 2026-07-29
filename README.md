@@ -2,7 +2,7 @@
 
 A structured 10-day learning journey through the fundamental concepts of bioinformatics.
 
-## 📋 Overview
+##  Overview
 
 This repository tracks daily learning progress on core bioinformatics topics:
 - DNA/RNA sequences & structure
@@ -13,7 +13,7 @@ This repository tracks daily learning progress on core bioinformatics topics:
 - NGS analysis
 - And more...
 
-## 📅 10-Day Curriculum
+##  10-Day Curriculum
 
 - **Day 1**: Introduction to Bioinformatics
 - **Day 2**: DNA/RNA Sequences & Structure
@@ -26,7 +26,7 @@ This repository tracks daily learning progress on core bioinformatics topics:
 - **Day 9**: Next-Generation Sequencing (NGS)
 - **Day 10**: Practical Tools & Pipelines
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 bioinformatics-learning-2026/
@@ -40,7 +40,7 @@ bioinformatics-learning-2026/
 └── README.md
 ```
 
-## 📝 How to Use
+##  How to Use
 
 1. **Daily Reading**: Read the recommended article for each day
 2. **Take Notes**: Document key learnings in `notes.md`
@@ -49,7 +49,7 @@ bioinformatics-learning-2026/
 5. **Update Progress**: Mark completion in `progress.md`
 6. **Commit**: Push your changes to GitHub daily
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 # Clone or download this repository
@@ -66,7 +66,7 @@ git commit -m "Day 1: Introduction to Bioinformatics completed"
 git push origin main
 ```
 
-## 📊 Tracking Progress
+##  Tracking Progress
 
 - Use `progress.md` to track completion status
 - Share daily updates on LinkedIn with #BioinformaticsLearning
@@ -79,17 +79,17 @@ git push origin main
 - **PLOS Journals**: https://plos.org/ (Open Access)
 - **Bioinformatics Reviews**: Nature, Science, BMC Bioinformatics
 
-## 📌 Tips for Success
+##  Tips for Success
 
-✅ Read actively - don't just passively consume  
-✅ Summarize in your own words  
-✅ Create visual notes/diagrams if helpful  
-✅ Connect concepts to real-world applications  
-✅ Share your progress online for accountability  
+- Read actively - don't just passively consume  
+- Summarize in your own words  
+- Create visual notes/diagrams if helpful  
+- Connect concepts to real-world applications  
+- Share your learning with someone and teach them or get taught.
 
 ---
 
-**Start Date**: [Your Start Date]  
-**Target Completion**: Day 10 (10 days later)  
-**Status**: In Progress 🔄
+**Start Date**: [29-July-2026]  
+**Target Completion**: Day 10 [07-August-2026]  
+**Status**: In Progress 
 
