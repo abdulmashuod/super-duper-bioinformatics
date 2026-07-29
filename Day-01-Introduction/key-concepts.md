@@ -1,5 +1,5 @@
 # Day 1: Key Concepts - Introduction to Bioinformatics
-- Well come to all my inspiring mentors. Go ahead, give it a star.
+- Hey! I'm creating this guide with zero toxicity, just pure wish to see you win in bioinformatics. Whether you're here out of curiosity, career change, or scientific passion — you picked the right field. Buckle up, enjoy the ride, and don't hesitate to revisit sections. Learning is not linear.
 - nothing relative or toxic just wish to see you win in all aspects of life.
 
 
