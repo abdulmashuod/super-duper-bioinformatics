@@ -149,13 +149,15 @@ Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the
 
 **Protein Basics**:
 - 20 amino acids
-- Sequence determines structure
-- Structure determines function
+- Essential Amino Acids are those which can be synthesized by human body and have to take from environment
+- Non-essential Amino acids are those which human body can synthesize
+- Sequence of amino acid determines protein structure
+- Protien Structure determines what function that protein perform
 
 ---
 
 ## 10. Career Pathways in Bioinformatics
-### **Caution:Salaries are added after searching indeed.DayDreaming is not allowed. **
+### **Caution:Salaries are added after searching remote job plateform. So DayDreaming is a side effect we all have to face. **
 
 ### **Bioinformatician**
 **Skills Required:**
