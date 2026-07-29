@@ -1,208 +1,140 @@
-# Day 1: Resources - Introduction to Bioinformatics
+# Day 1: Resources
 
-Compile all useful links, references, and resources encountered during Day 1.
+## 📚 Best Articles I Read Today
 
----
+### Article 1
+**Title:** NCBI Bioinformatics Beginner's Guide  
+**Author:** NCBI  
+**Link:** https://www.ncbi.nlm.nih.gov/guide/  
+**Why It Helps:** Official guide, clear explanations, no jargon overload  
+**Time to Read:** 5 minutes  
+**Key Takeaway:** Bioinformatics = solving biological problems with computers
 
-## 📄 Primary Article
+### Article 2
+**Title:** What is Computational Biology?  
+**Author:** NIH  
+**Link:** https://science-education.nih.gov/LifeWorks/CompBiology.html  
+**Why It Helps:** Shows practical applications, career info  
+**Time to Read:** 10 minutes  
+**Key Takeaway:** This field is growing fast and needs people like you
 
-**Title**: [Article Title]  
-**Authors**: [Names]  
-**Publication**: [Journal/Publisher]  
-**Year**: [Year]  
-**Link**: [URL to the article]  
-**Open Access**: Yes / No  
-**Full Text Available**: Yes / No / Via Institution
-
----
-
-## 📚 Supplementary Reading
-
-### Books
-- [ ] **Title**: [Book Name]
-  - **Author**: [Name]
-  - **Link**: [Amazon/Goodreads/Library]
-  - **Relevant Sections**: [Chapters to focus on]
-  - **Notes**: [Why this book is useful]
-
-### Review Articles
-- [ ] **Title**: [Article Name]
-  - **Source**: [Journal]
-  - **Link**: [PubMed Central or Direct Link]
-  - **Relevance**: [How it relates to Day 1]
+### Article 3
+**Title:** Brief History of Bioinformatics  
+**Author:** Altschul (creator of BLAST)  
+**Link:** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848026/  
+**Why It Helps:** Understand how we got here  
+**Time to Read:** 15 minutes  
+**Key Takeaway:** Bioinformatics is only 50 years old — we're still inventing it
 
 ---
 
-## 🎬 Video Resources
+##  Videos I Found Helpful
 
-- [ ] **Title**: [Video Name]
-  - **Channel**: [YouTube Channel/Platform]
-  - **Link**: [URL]
-  - **Duration**: [Length]
-  - **Notes**: [Key points covered]
+- **Khan Academy: Intro to Genetics** (30 min)
+  - Link: https://www.khanacademy.org/science/ap-biology
+  - Best For: DNA/gene refresher
+  - Watch If: You need biology basics
 
-- [ ] **Title**: 
-  - **Channel**: 
-  - **Link**: 
-  - **Duration**: 
-  - **Notes**: 
+- **YouTube: What is Bioinformatics?** (5 min)
+  - Search: "What is bioinformatics explained simply"
+  - Best For: Quick visual overview
+  - Watch If: You want a quick intro
 
 ---
 
-## 🌐 Online Databases & Platforms
+##  Websites You'll Use Often
 
-### Major Bioinformatics Databases (Introduced Today)
-
-| Database | URL | Purpose | Registration Required |
-|----------|-----|---------|----------------------|
-| NCBI | https://www.ncbi.nlm.nih.gov/ | Central repository for biological data | No |
-| GenBank | https://www.ncbi.nlm.nih.gov/genbank/ | DNA sequences | No |
-| UniProt | https://www.uniprot.org/ | Protein sequences & info | No |
-| Ensembl | https://www.ensembl.org/ | Genome browser | No |
-| EMBL | https://www.ebi.ac.uk/ | European sequences | No |
-
-### Learning Platforms
-- [ ] **Name**: [Platform Name]
-  - **URL**: [Link]
-  - **Courses Available**: [What's offered]
-  - **Free/Paid**: [Cost]
+| Site | What It Is | Why You Need It |
+|------|-----------|-----------------|
+| [NCBI](https://www.ncbi.nlm.nih.gov/) | Central database for all biology data | Find genes, sequences, papers |
+| [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) | DNA sequences (500M+) | Search for any gene |
+| [UniProt](https://www.uniprot.org/) | Protein sequences | Find protein info |
+| [Ensembl](https://www.ensembl.org/) | Human genome browser | Visualize genes on chromosomes |
+| [PubMed](https://pubmed.ncbi.nlm.nih.gov/) | Scientific papers | Read latest research |
+| [Google Scholar](https://scholar.google.com/) | Search academic papers | Find anything published |
 
 ---
 
-## 🛠️ Tools Introduced
+##  Tools Mentioned (Don't Install Yet!)
 
-- [ ] **Tool Name**: [Name]
-  - **Purpose**: [What it does]
-  - **Website**: [Link]
-  - **Install**: Online / Local download / Command-line
-  - **Learning Resource**: [Link to tutorial]
-
----
-
-## 📰 Related News & Applications
-
-Find current news articles about bioinformatics applications:
-
-- [ ] **Headline**: [News Title]
-  - **Source**: [News outlet]
-  - **Date**: [Publication date]
-  - **Link**: [URL]
-  - **Relevance**: [How it relates to bioinformatics]
+- **BLAST** - Search for similar sequences (we use Day 5)
+- **Galaxy** - Easy bioinformatics without coding (Day 9)
+- **Python** - Programming language you'll learn (Days 2-10)
+- **AlphaFold** - Predict protein 3D shapes (advanced, Day 8+)
 
 ---
 
-## 👥 Experts & Influencers to Follow
+##  People to Follow
 
-**On Twitter/X**:
-- [ ] [@handle] - [Name, Expertise]
-- [ ] [@handle] - [Name, Expertise]
+**Twitter/X Accounts:**
+- [@NCBI](https://twitter.com/NCBI) - Latest NCBI updates
+- [@UniProt](https://twitter.com/uniprot) - Protein database news
+- [@DeepMind](https://twitter.com/DeepMindAI) - AI for biology (AlphaFold)
 
-**On LinkedIn**:
-- [ ] [Name] - [Profile Link]
-- [ ] [Name] - [Profile Link]
-
-**Podcasts**:
-- [ ] **Name**: [Podcast Name]
-  - **Host**: [Name]
-  - **Relevant Episodes**: [Episode titles]
+**Reddit Communities:**
+- r/bioinformatics - Ask questions, see projects
+- r/genetics - Discuss genetic research
+- r/learnprogramming - Get coding help
 
 ---
 
-## 🏫 Institutions & Organizations
+##  Glossary: Terms I Learned Today
 
-**Leading Research Groups**:
-- [ ] [Institution Name] - [Research Focus]
-  - **Website**: [Link]
-  - **Notable Labs**: [Lab names]
-
-**Professional Societies**:
-- [ ] **Name**: [Society Name]
-  - **Website**: [Link]
-  - **Membership**: [Cost/Benefits]
-
----
-
-## 📊 Useful Visualizations & Diagrams
-
-- [ ] **Title**: [Diagram Name]
-  - **Source**: [Where found]
-  - **Link**: [URL]
-  - **Describes**: [What it shows]
+| Term | What It Means |
+|------|---------------|
+| **Bioinformatics** | Using computers to analyze biological data |
+| **Genome** | Complete DNA instructions for an organism |
+| **Sequence** | Line of DNA bases (A, T, G, C) or protein amino acids |
+| **Database** | Organized collection of sequences (like GenBank) |
+| **Algorithm** | Step-by-step procedure a computer follows |
+| **Annotation** | Adding labels/info to sequences |
+| **NGS** | Next-Gen Sequencing (fast DNA reading) |
 
 ---
 
-## 💻 GitHub Repositories
+##  Websites I Bookmarked
 
-Useful code repositories related to bioinformatics:
+**Must Know:**
+- NCBI: https://www.ncbi.nlm.nih.gov/
+- GenBank: https://www.ncbi.nlm.nih.gov/genbank/
+- UniProt: https://www.uniprot.org/
 
-- [ ] **Repository Name**: [Name]
-  - **URL**: [Link]
-  - **Language**: [Programming language]
-  - **Purpose**: [What it does]
-  - **Stars**: [GitHub stars]
+**Nice to Have:**
+- Ensembl: https://www.ensembl.org/
+- PubMed Central: https://www.ncbi.nlm.nih.gov/pmc/
+- Google Scholar: https://scholar.google.com/
 
----
-
-## 📖 Reference Materials
-
-**Glossary Terms Encountered**:
-| Term | Definition | Context |
-|------|-----------|---------|
-| Bioinformatics | [Definition] | [Where encountered] |
-| Genome | [Definition] | [Where encountered] |
-| Sequence | [Definition] | [Where encountered] |
-| | | |
+**Learning:**
+- Khan Academy Biology: https://www.khanacademy.org/science/biology
+- Coursera Bioinformatics: https://www.coursera.org/specializations/bioinformatics
 
 ---
 
-## 🔗 Topic-Specific Links
+##  What I've Done
 
-### DNA/Sequence Related
-- [Link name]: [URL]
-- [Link name]: [URL]
-
-### Protein Related
-- [Link name]: [URL]
-- [Link name]: [URL]
-
-### Career/Opportunities
-- [Link name]: [URL]
-- [Link name]: [URL]
+- [x] Read NCBI Beginner's Guide
+- [x] Watched Khan Academy intro
+- [x] Explored NCBI website
+- [x] Bookmarked key databases
+- [ ] Read full history article (optional for later)
+- [ ] Joined r/bioinformatics (optional)
 
 ---
 
-## 📋 Quick Reference Cheat Sheet
+##  Best Resource So Far
 
-**Essential Links for Day 1**:
-1. NCBI: https://www.ncbi.nlm.nih.gov/
-2. UniProt: https://www.uniprot.org/
-3. Google Scholar: https://scholar.google.com/
-4. PubMed Central: https://www.ncbi.nlm.nih.gov/pmc/
+**NCBI Guide** — It's the official, free, and actually understandable. Start here for everything.
 
 ---
 
-## 🎯 Resources for Day 2 Preview
+## Resources for Day 2
 
-Start gathering resources for tomorrow's topic (DNA/RNA Sequences):
-- [ ] [Resource 1]
-- [ ] [Resource 2]
-- [ ] [Resource 3]
-
----
-
-## ✅ Resource Collection Checklist
-
-- [ ] Saved article PDF
-- [ ] Bookmarked key websites
-- [ ] Found supplementary videos
-- [ ] Located relevant textbook sections
-- [ ] Identified experts to follow
-- [ ] Found community forums (r/bioinformatics, etc.)
-- [ ] Set up alerts for new papers
+Bookmark these for tomorrow (Sequences & FASTA/FASTQ):
+- NCBI FASTA Tutorial: https://www.ncbi.nlm.nih.gov/
+- YouTube: "FASTA format explained" (search this)
+- Python installation: https://www.python.org/downloads/
 
 ---
 
-## 📝 Notes on Using These Resources
-
-[Add any tips about how to best use these resources or how you plan to utilize them]
-
+**Last Updated:** [29-07-2026]  
+**Confidence Level:** Ready to move to Day 2 
