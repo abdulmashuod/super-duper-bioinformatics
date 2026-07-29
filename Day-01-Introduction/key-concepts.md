@@ -7,7 +7,8 @@
 
 ## 1. What is Bioinformatics?
 
-**Definition**: Bioinformatics is an interdisciplinary field using dry lab, that is, methods and software tools for understanding biological data. Bioinformatics includes experts from computer science, statistics, even mathematics, and of course biologists for a better understanding of biological data.
+**Definition**: 
+- Bioinformatics is an interdisciplinary field using dry lab, that is, methods and software tools for understanding biological data. Bioinformatics includes experts from computer science, statistics, even mathematics, and of course biologists for a better understanding of biological data.
 
 **Why Important**: 
 - Bioinformatics can be applied to following fields nowadays.
@@ -36,7 +37,7 @@ there are many more like Speeding up Drug Discovery ,Protein Folding Prediction,
 - Statistics: Tells us how confident we are in our data and our findings.Answers the question of significane. make in depth analysis possible
 - Mathematics: It eventually helps us understand how models actually work.what they need and how they are efficient
 
-**Synergy**: Bioinformatics is essentially big data analysis for biological data sets. It requires computational and statistical analyses in order to extract meaning from biological data. (./Bioinformatics-png)
+**Synergy**: Bioinformatics is essentially big data analysis for biological data sets. It requires computational and statistical analyses in order to extract meaning from biological data. ![Image](Bioinformatics-PNG.png)
 
 ---
 
@@ -147,6 +148,7 @@ Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the
 ---
 
 ## 10. Career Pathways in Bioinformatics
+### **Caution:Salaries are added after searching indeed.DayDreaming is not allowed. **
 
 ### **Bioinformatician**
 **Skills Required:**
