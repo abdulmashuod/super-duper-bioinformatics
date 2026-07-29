@@ -125,7 +125,7 @@ Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the
 - [ ] UniProt
 - [ ] NCBI
 - [ ] Ensembl
-- [ ] Others: [List any mentioned]
+- [ ] Others
 
 **Tool Categories**:
 - [ ] Sequence alignment
