@@ -1,6 +1,6 @@
 # Day 1: Resources
 
-## 📚 Best Articles I Read Today
+## Best Articles I Read Today
 
 ### Article 1
 **Title:** NCBI Bioinformatics Beginner's Guide  
