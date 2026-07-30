@@ -227,9 +227,9 @@ Q-value: 0 6 6 10 8 8 8 8 10 10 10 11 9 9 5 5 5 11 11 9 8 5 5 5 5 9 14 16 10 10 
 -  Allows quality-based filtering and trimming
 
 ### Disadvantages
-- ❌ Large file sizes (3-4x larger than FASTA)
-- ❌ Requires more storage and bandwidth
-- ❌ Quality scores only for short reads (not applicable to assembled sequences)
+- Large file sizes (3-4x larger than FASTA)
+- Requires more storage and bandwidth
+- Quality scores only for short reads (not applicable to assembled sequences)
 
 ### Use Cases
 - Raw sequencing data (primary output from sequencers)
