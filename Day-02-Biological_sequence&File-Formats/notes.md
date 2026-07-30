@@ -208,10 +208,10 @@ Breaking it down:
 - **0/0** = Homozygous reference (no change)
 
 ### When to Use
-- ✅ Storing discovered variants (SNPs, insertions, deletions)
-- ✅ Comparing multiple samples
-- ✅ Clinical variant interpretation
-- ✅ Cancer mutation analysis
+-  Storing discovered variants (SNPs, insertions, deletions)
+-  Comparing multiple samples
+-  Clinical variant interpretation
+-  Cancer mutation analysis
 
 ---
 
