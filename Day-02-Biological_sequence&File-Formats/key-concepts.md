@@ -54,15 +54,15 @@ CCCTTGACTCCACAGACACCCAAGACCACCAGACCTGGGCAACGTGCTGGAGATGCAC
 ```
 
 ### Advantages
-- ✅ Universal compatibility (every bioinformatics tool reads FASTA)
-- ✅ Human-readable
-- ✅ Small file size
-- ✅ Simple to parse
+- Universal compatibility (every bioinformatics tool reads FASTA)
+- Human-readable
+- Small file size
+- Simple to parse
 
 ### Disadvantages
-- ❌ No quality information
-- ❌ No metadata fields
-- ❌ Ambiguous for multi-line sequences
+- No quality information
+- No metadata fields
+- Ambiguous for multi-line sequences
 
 ### Use Cases
 - Reference genomes
