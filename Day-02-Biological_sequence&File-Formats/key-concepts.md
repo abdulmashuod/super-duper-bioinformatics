@@ -221,10 +221,10 @@ Q-value: 0 6 6 10 8 8 8 8 10 10 10 11 9 9 5 5 5 11 11 9 8 5 5 5 5 9 14 16 10 10 
 - **Q < 20**: Low quality, often trimmed or discarded
 
 ### Advantages
-- ✅ Includes quality information (critical for variant calling)
-- ✅ Standard output from all modern sequencers
-- ✅ Widely supported by bioinformatics tools
-- ✅ Allows quality-based filtering and trimming
+-  Includes quality information (critical for variant calling)
+-  Standard output from all modern sequencers
+-  Widely supported by bioinformatics tools
+-  Allows quality-based filtering and trimming
 
 ### Disadvantages
 - ❌ Large file sizes (3-4x larger than FASTA)
