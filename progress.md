@@ -24,9 +24,9 @@ Track your daily progress through the 10-day bioinformatics fundamentals course.
 ## Daily Logs
 
 ### Day 1 - Introduction to Bioinformatics
-- **Date Started**: [29-july-2026]
-- **Date Completed**: [29-july-2026]
-- **Time Spent**: [8Hours]
+- **Date Started**: 29-july-2026
+- **Date Completed**: 29-july-2026
+- **Time Spent**: 8Hours
 - **Difficulty Level**: Easy 
 - **Notes**: [notes-of-day-01](./Day-01-Introduction/notes.md)
 
