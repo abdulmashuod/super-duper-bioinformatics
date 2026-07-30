@@ -179,10 +179,10 @@ read_002  83   chr2  5000  45  95M   =  5100  500  GCTAGCTA...  HHHHHHHH...
 - Requires special tools to read (samtools)
 
 ### When to Use
-- ✅ After alignment (mapping reads to genome)
-- ✅ Finding where each read came from
-- ✅ Detecting variants
-- ✅ Coverage analysis
+- After alignment (mapping reads to genome)
+- Finding where each read came from
+- Detecting variants
+- Coverage analysis
 
 ---
 
