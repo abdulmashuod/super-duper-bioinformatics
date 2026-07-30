@@ -133,10 +133,10 @@ HHHHHHHHH     → Very good read, use it
 ```
 
 ### When to Use FASTQ
-- ✅ Raw sequencing data (fresh from Illumina machine)
-- ✅ When you need quality information for filtering
-- ✅ Before sequence assembly (quality guides algorithm)
-- ✅ For variant calling (poor quality bases affect accuracy)
+- Raw sequencing data (fresh from Illumina machine)
+- When you need quality information for filtering
+- Before sequence assembly (quality guides algorithm)
+- For variant calling (poor quality bases affect accuracy)
 
 ### Real-World Example
 ```
