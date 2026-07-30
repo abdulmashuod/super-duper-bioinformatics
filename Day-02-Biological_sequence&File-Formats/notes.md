@@ -68,10 +68,10 @@ ATGCATGCATGCATGC
 - That's it. No metadata, no quality, no extra info.
 
 ### When to Use FASTA
-- ✅ Reference genomes (human genome from NCBI)
-- ✅ Protein databases (looking up amino acid sequences)
-- ✅ Sequence searching (BLAST searches)
-- ✅ When you DON'T care about quality info
+-  Reference genomes (human genome from NCBI)
+-  Protein databases (looking up amino acid sequences)
+-  Sequence searching (BLAST searches)
+-  When you DON'T care about quality info
 
 ### Real-World Example
 ```
