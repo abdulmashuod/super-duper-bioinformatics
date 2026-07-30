@@ -275,7 +275,7 @@ read_id	163	chr1	1000	60	100M	=	1500	600	ATGCATGC...	IIIIIIII...	RG:Z:sample1
 
 11 mandatory fields:
 ```
-QNAME    FLAG      RNAME   POS  MAPQ  CIGAR   RNEXT   PNEXT   TLEN    SEQ     QUAL    [Optional tags]
+QNAME    FLAG      RNAME   POS  MAPQ  CIGAR   RNEXT   PNEXT   TLEN    SEQ     QUAL    
 ```
 
 | Field | Description |
