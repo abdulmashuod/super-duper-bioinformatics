@@ -373,4 +373,4 @@ Visit https://www.ncbi.nlm.nih.gov/gene and search for "TP53 human". See how man
 
 ---
 
-**Time to Read:** ~5 minutes | **Difficulty:** Beginner | **Last Updated:** 30-07-2-26
+**Time to Read:** ~5 minutes | **Difficulty:** Beginner | **Last Updated:** 30-07-2026
