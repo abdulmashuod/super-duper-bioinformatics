@@ -479,16 +479,16 @@ chrX	10	.	T	A	40	PASS	DP=13	GT:GQ	0/0:18	./.
 ```
 
 ### Advantages
-- ✅ Standard format for variant data
-- ✅ Human-readable
-- ✅ Supports multiple samples
-- ✅ Flexible annotation (INFO field)
-- ✅ Widely supported (all variant callers output VCF)
+- Standard format for variant data
+- Human-readable
+- Supports multiple samples
+- Flexible annotation (INFO field)
+- Widely supported (all variant callers output VCF)
 
 ### Disadvantages
-- ❌ Large file sizes for whole genomes
-- ❌ Text-based (slow for large datasets)
-- ❌ Can be complex with many INFO fields
+- Large file sizes for whole genomes
+- Text-based (slow for large datasets)
+- Can be complex with many INFO fields
 
 ### Use Cases
 - Variant calling results
