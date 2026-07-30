@@ -330,20 +330,20 @@ By the end of this topic, you should understand:
 
 ## Common Beginner Mistakes to Avoid
 
-❌ **Mistake 1:** Ignoring quality scores  
-✅ **Fix:** Always check quality before analysis
+ **Mistake 1:** Ignoring quality scores  
+ **Fix:** Always check quality before analysis
 
-❌ **Mistake 2:** Forgetting BED files are 0-based  
-✅ **Fix:** VCF is 1-based, BED is 0-based (different!)
+ **Mistake 2:** Forgetting BED files are 0-based  
+ **Fix:** VCF is 1-based, BED is 0-based (different!)
 
-❌ **Mistake 3:** Trying to open BAM in a text editor  
-✅ **Fix:** Use `samtools view` or specialized tools
+ **Mistake 3:** Trying to open BAM in a text editor  
+ **Fix:** Use `samtools view` or specialized tools
 
-❌ **Mistake 4:** Not compressing FASTQ files  
-✅ **Fix:** Always use `.fastq.gz` for storage
+ **Mistake 4:** Not compressing FASTQ files  
+ **Fix:** Always use `.fastq.gz` for storage
 
-❌ **Mistake 5:** Mixing up quality character interpretation  
-✅ **Fix:** Use the ASCII-33 formula every time
+ **Mistake 5:** Mixing up quality character interpretation  
+ **Fix:** Use the ASCII-33 formula every time
 
 ---
 
@@ -373,4 +373,4 @@ Visit https://www.ncbi.nlm.nih.gov/gene and search for "TP53 human". See how man
 
 ---
 
-**Time to Read:** ~5 minutes | **Difficulty:** Beginner | **Last Updated:** 2024
+**Time to Read:** ~5 minutes | **Difficulty:** Beginner | **Last Updated:** 30-07-2-26
