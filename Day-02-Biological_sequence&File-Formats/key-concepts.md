@@ -314,7 +314,7 @@ SRR001666.1	163	chr1	1000	60	100M	=	1500	600	GATTTGGGGTTCAAAGCAGTATCGATCAAATAGTA
 ```
 
 ### Advantages
-- ✅ Standardized format for alignment
+-  Standardized format for alignment
 - ✅ Contains quality scores and alignment details
 - ✅ Text-based, human-readable
 - ✅ Widely used in bioinformatics pipelines
