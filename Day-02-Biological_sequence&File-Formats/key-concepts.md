@@ -365,15 +365,15 @@ samtools sort input.bam -o sorted.bam
 ```
 
 ### Advantages
-- ✅ Massive storage savings (crucial for large datasets)
-- ✅ Fast random access (via index)
-- ✅ Standard format for NGS analysis
-- ✅ Widely supported
+-  Massive storage savings (crucial for large datasets)
+-  Fast random access (via index)
+-  Standard format for NGS analysis
+-  Widely supported
 
 ### Disadvantages
-- ❌ Binary format (can't view directly)
-- ❌ Requires tools to read
-- ❌ Requires indexing for random access
+-  Binary format (can't view directly)
+-  Requires tools to read
+-  Requires indexing for random access
 
 ### Use Cases
 - Storage of alignment results
