@@ -7,7 +7,7 @@ Track your daily progress through the 10-day bioinformatics fundamentals course.
 | Day | Topic | Article Read | Notes Taken | Concepts Listed | Resources Added | Status |
 |-----|-------|:-------------:|:-----------:|:---------------:|:---------------:|:------:|
 | 1 | Introduction to Bioinformatics | ✓| ✓ | ✓ | ✓ | ✓ |
-| 2 | DNA/RNA Sequences & Structure | ☐ | ☐ | ☐ | ☐ | ⏳ |
+| 2 | DNA/RNA Sequences & Structure | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 3 | Sequence Alignment Basics | ☐ | ☐ | ☐ | ☐ | ⏳ |
 | 4 | Multiple Sequence Alignment | ☐ | ☐ | ☐ | ☐ | ⏳ |
 | 5 | Protein Structure & Function | ☐ | ☐ | ☐ | ☐ | ⏳ |
@@ -28,14 +28,14 @@ Track your daily progress through the 10-day bioinformatics fundamentals course.
 - **Date Completed**: [29-july-2026]
 - **Time Spent**: [8Hours]
 - **Difficulty Level**: Easy 
-- **Notes**: Full day grind but worth it
+- **Notes**: [notes-of-day-01](./Day-01-Introduction/notes.md)
 
 ### Day 2 - DNA/RNA Sequences & Structure
-- **Date Started**: 
-- **Date Completed**: 
-- **Time Spent**: 
-- **Difficulty Level**: Easy / Medium / Hard
-- **Notes**: 
+- **Date Started**: 30-07-2-206
+- **Date Completed**: 30-07-2026
+- **Time Spent**: 5 hours
+- **Difficulty Level**: Easy 
+- **Notes**: [notes-for-day-02](./Day-02-Biological_sequence&File-Formats/notes.md)
 
 ### Day 3 - Sequence Alignment Basics
 - **Date Started**: 
