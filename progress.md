@@ -38,11 +38,11 @@ Track your daily progress through the 10-day bioinformatics fundamentals course.
 - **Notes**: [notes-for-day-02](./Day-02-Biological_sequence&File-Formats/notes.md)
 
 ### Day 3 - Sequence Alignment Basics
-- **Date Started**: 
-- **Date Completed**: 
-- **Time Spent**: 
-- **Difficulty Level**: Easy / Medium / Hard
-- **Notes**: 
+- **Date Started**: 05-08-2026
+- **Date Completed**:05-08-2026 
+- **Time Spent**:2 hours 
+- **Difficulty Level**: Easy  
+- **Notes**:[notes-0f-day-03](./Day-03-NCBI-Databases/notes.md) 
 
 ### Day 4 - Multiple Sequence Alignment
 - **Date Started**: 
@@ -98,8 +98,8 @@ Track your daily progress through the 10-day bioinformatics fundamentals course.
 ## Summary Statistics
 
 - **Total Days**: 10
-- **Days Completed**: 1/10
-- **Overall Progress**: 5%
+- **Days Completed**: 3/10
+- **Overall Progress**: 33%
 - **Average Time per Day**: [Will calculate after completion]
 - **Most Challenging Day**: TBD
 - **Key Takeaway**: TBD
@@ -116,4 +116,6 @@ Track your daily progress through the 10-day bioinformatics fundamentals course.
 - [ ] Career pathways (4 main roles)
 - [ ] Historical context (Dayhoff, Altschul)
 - [ ] Real-world applications (cancer drugs, COVID-19)
+- Day-02 Milestone
+- [ ] 
 
