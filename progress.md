@@ -107,7 +107,7 @@ Track your daily progress through the 10-day bioinformatics fundamentals course.
 ---
 
 **Key Concepts Covered:**
-- Day-01 Milestone
+## Day-01 Milestone
 - [ ] What bioinformatics is (definition & scope)
 - [ ] Interdisciplinary nature (4 pillars)
 - [ ] Central Dogma: DNA → RNA → Protein
@@ -116,7 +116,7 @@ Track your daily progress through the 10-day bioinformatics fundamentals course.
 - [ ] Career pathways (4 main roles)
 - [ ] Historical context (Dayhoff, Altschul)
 - [ ] Real-world applications (cancer drugs, COVID-19)
-- Day-02 Milestone
+## Day-02 Milestone
 - [ ] Fasta Format
 - [ ] Fastq Format
 - [ ] SAM format
@@ -125,7 +125,7 @@ Track your daily progress through the 10-day bioinformatics fundamentals course.
 - [ ] Additional formats
 - [ ] Format Comparison 
 - [ ] Tools for Format Conversion
-- Day-03 Milestones
+## Day-03 Milestones
 -[ ] Introduction to NCBI
 -[ ] GenBank Databases
 -[ ] PubMed Database
