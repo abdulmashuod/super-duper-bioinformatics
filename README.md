@@ -16,9 +16,9 @@ This repository tracks daily learning progress on core bioinformatics topics:
 ##  10-Day Curriculum
 
 - **Day 1**: Introduction to Bioinformatics
-- **Day 2**: DNA/RNA Sequences & Structure
-- **Day 3**: Sequence Alignment Basics
-- **Day 4**: Multiple Sequence Alignment
+- **Day 2**: Biological-sequence & File formats
+- **Day 3**: NCBI-Databases
+- **Day 4**: Pairwise & Multiple Sequence Alignment
 - **Day 5**: Protein Structure & Function
 - **Day 6**: Gene Finding & Annotation
 - **Day 7**: Phylogenetic Analysis
