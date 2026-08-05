@@ -157,7 +157,7 @@ Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the
 ---
 
 ## 10. Career Pathways in Bioinformatics
-### Caution:Salaries are added after searching remote job plateform. So DayDreaming is a side effect we all have to face.
+
 
 ### **Bioinformatician**
 **Skills Required:**
@@ -175,7 +175,6 @@ Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the
 
 **Example Job Title:** Senior Bioinformatician at NCBI, Illumina, 23andMe
 
-**Salary Range:** $70K-$130K USD (varies by experience & location)
 
 **Where They Work:** 
 - Research institutions (NIH, universities)
@@ -202,7 +201,7 @@ Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the
 
 **Example Job Title:** Computational Biologist at Genentech, MIT Media Lab, Stanford
 
-**Salary Range:** $80K-$150K USD (research-focused, often PhD required)
+
 
 **Where They Work:**
 - Academic research labs
@@ -230,7 +229,6 @@ Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the
 
 **Example Job Title:** Systems Biologist at Pfizer, Caltech, EMBL
 
-**Salary Range:** $85K-$160K USD (PhD typical requirement)
 
 **Where They Work:**
 - Pharmaceutical companies
@@ -261,7 +259,6 @@ Paulien Hogeweg and Ben Hesper first coined the term ‘bioinformatics’ in the
 
 **Example Job Title:** Senior Software Engineer (Bioinformatics) at Ginkgo Bioworks, Recursion, 10x Genomics
 
-**Salary Range:** $100K-$180K USD (highest-paid bioinformatics role!)
 
 **Where They Work:**
 - Biotech startups (highest growth)
