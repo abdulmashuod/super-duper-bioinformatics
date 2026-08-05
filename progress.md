@@ -126,11 +126,11 @@ Track your daily progress through the 10-day bioinformatics fundamentals course.
 - [ ] Format Comparison 
 - [ ] Tools for Format Conversion
 ## Day-03 Milestones
--[ ] Introduction to NCBI
--[ ] GenBank Databases
--[ ] PubMed Database
--[ ] Protein Database(NCBI databases)
--[ ] Interaction between Databases
+- [ ] Introduction to NCBI
+- [ ] GenBank Databases
+- [ ] PubMed Database
+- [ ] Protein Database(NCBI databases)
+- [ ] Interaction between Databases
 - [ ] Practical Applications
--[ ] Best Practics
+- [ ] Best Practics
 
