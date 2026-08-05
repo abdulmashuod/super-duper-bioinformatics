@@ -117,5 +117,20 @@ Track your daily progress through the 10-day bioinformatics fundamentals course.
 - [ ] Historical context (Dayhoff, Altschul)
 - [ ] Real-world applications (cancer drugs, COVID-19)
 - Day-02 Milestone
-- [ ] 
+- [ ] Fasta Format
+- [ ] Fastq Format
+- [ ] SAM format
+- [ ] BAM format 
+- [ ] VCF format
+- [ ] Additional formats
+- [ ] Format Comparison 
+- [ ] Tools for Format Conversion
+- Day-03 Milestones
+-[ ] Introduction to NCBI
+-[ ] GenBank Databases
+-[ ] PubMed Database
+-[ ] Protein Database(NCBI databases)
+-[ ] Interaction between Databases
+- [ ] Practical Applications
+-[ ] Best Practics
 
